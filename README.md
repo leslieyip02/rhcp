@@ -1,6 +1,6 @@
 # California 🔥🌶️
 
-The Red Hot Chili Peppers obsession with California is no secret. But just how often does *California* appear in their discography?
+The Red Hot Chili Peppers' obsession with California is no secret. But just how often does *California* appear in their discography?
 
 ### Getting the Lyrics
 
