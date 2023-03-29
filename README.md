@@ -1,6 +1,6 @@
 # California 🔥🌶️
 
-The Red Hot Chili Peppers' obsession with California is no secret. But just how often does *California* appear in their discography?
+The Red Hot Chili Peppers' obsession with California is no secret. But just how often does `"California"` appear in their discography?
 
 ### Getting the Lyrics
 
@@ -552,6 +552,6 @@ plt.show()
 
 ### Conclusion?
 
-Well, I guess the Red Hot Chili Peppers don't actually reference California that much. Now I know that `"California"` is only mentioned by name 22 times. :-(
+Well, I guess the Red Hot Chili Peppers don't actually reference California that much. :-(
 
-By the way, [this guy](https://www.reddit.com/r/RedHotChiliPeppers/comments/nv59p0/hopefully_every_referrence_to_california_in/) has done a much better job than me, since he has a more comprehensive list of California-related phrases.
+By the way, [this guy](https://www.reddit.com/r/RedHotChiliPeppers/comments/nv59p0/hopefully_every_referrence_to_california_in/) has done a much better job than me, so do check it out.
